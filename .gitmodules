@@ -1,0 +1,3 @@
+[submodule "apps/moon-front"]
+	path = apps/moon-front
+	url = git@github.com:MaximeCap/moon-front.git
